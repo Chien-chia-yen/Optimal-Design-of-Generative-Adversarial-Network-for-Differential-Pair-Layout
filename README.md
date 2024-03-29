@@ -22,3 +22,4 @@ The Loss Function incorporated into the model design criteria, conforming to the
 - Each group of differential pair traces contains two starting point coordinates and two ending point coordinates  
 - Die Information (Size, Coordination)
 #### Result Graph:
+![image](https://github.com/Chien-chia-yen/Optimal-Design-of-Generative-Adversarial-Network-for-Differential-Pair-Layout/blob/main/pic/pic3.png)
